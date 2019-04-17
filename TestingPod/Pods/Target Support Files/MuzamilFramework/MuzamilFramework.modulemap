@@ -1,0 +1,6 @@
+framework module MuzamilFramework {
+  umbrella header "MuzamilFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

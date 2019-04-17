@@ -1,0 +1,16 @@
+PODS:
+  - MuzamilFramework (1.0.0)
+
+DEPENDENCIES:
+  - MuzamilFramework (from `../MuzamilFramework`)
+
+EXTERNAL SOURCES:
+  MuzamilFramework:
+    :path: "../MuzamilFramework"
+
+SPEC CHECKSUMS:
+  MuzamilFramework: 9de00ea71b84d88ada61d39408e22e54b784eb86
+
+PODFILE CHECKSUM: aa5849880c3492e872df1185834ce6b3e1193022
+
+COCOAPODS: 1.5.3
